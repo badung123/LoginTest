@@ -11,3 +11,6 @@ cmd: dotnet TelCoTestLogin.dll
 
 then run in browser: http://localhost:5000
 
+email: naptay@12345
+pass:naptay
+
