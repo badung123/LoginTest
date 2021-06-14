@@ -6856,11 +6856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LoginIdentity\\TelCoTestLogin\\TelCoTestLogin\\TelCoTestLogin.csproj",
+      "projectUniqueName": "C:\\Users\\dung7\\source\\repos\\LoginTest\\TelCoTestLogin\\TelCoTestLogin.csproj",
       "projectName": "TelCoTestLogin",
-      "projectPath": "E:\\LoginIdentity\\TelCoTestLogin\\TelCoTestLogin\\TelCoTestLogin.csproj",
+      "projectPath": "C:\\Users\\dung7\\source\\repos\\LoginTest\\TelCoTestLogin\\TelCoTestLogin.csproj",
       "packagesPath": "C:\\Users\\dung7\\.nuget\\packages\\",
-      "outputPath": "E:\\LoginIdentity\\TelCoTestLogin\\TelCoTestLogin\\obj\\",
+      "outputPath": "C:\\Users\\dung7\\source\\repos\\LoginTest\\TelCoTestLogin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYPihK0ZB0e3mQ4Cy/NnlLlNGoOhkgOXFfXDw552FM6UqUwJseFfUlYWPUEKBgjo7PFM0TCgCU4w5BBHfUqQdQ==",
+  "dgSpecHash": "DjuiTTG+hhfV2Xq5ji6aosaA2XuOl5sUN26I1Nf0MIqOaytUjzVATxZ4RdePLuFaOHzYJdDRsQJJ77mrLOSoGw==",
   "success": true,
-  "projectFilePath": "E:\\LoginIdentity\\TelCoTestLogin\\TelCoTestLogin\\TelCoTestLogin.csproj",
+  "projectFilePath": "C:\\Users\\dung7\\source\\repos\\LoginTest\\TelCoTestLogin\\TelCoTestLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dung7\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dung7\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.7\\microsoft.aspnetcore.cryptography.internal.5.0.7.nupkg.sha512",
